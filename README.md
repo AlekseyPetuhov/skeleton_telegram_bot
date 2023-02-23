@@ -8,4 +8,4 @@ In file **bot.properties** write the value of the parameters:
 * webhook - webhook URL
 
 ### Register webhook
-Example URL: https://api.telegram.org/bot<token>/setWebhook?url=<webhook_url>
+Example URL: https://api.telegram.org/bot<_token_>/setWebhook?url=<webhook_url>
